@@ -2,6 +2,19 @@
 
 A clean, modular pipeline for training and testing RL algorithms for PII sharing decisions.
 
+## Project Poster
+
+**[View Project Poster PDF](690F_AirGapLite_Poster.pdf)**
+
+<details>
+<summary>Click to view poster inline</summary>
+
+<object data="690F_AirGapLite_Poster.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Unable to display PDF. <a href="690F_AirGapLite_Poster.pdf">Download the poster</a> instead.</p>
+</object>
+
+</details>
+
 ##  Project Structure
 
 ```
