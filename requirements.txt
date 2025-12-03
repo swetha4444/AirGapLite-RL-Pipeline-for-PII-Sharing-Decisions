@@ -1,0 +1,22 @@
+# Core Dependencies
+torch>=1.9.0
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+scikit-learn>=1.0.0
+
+# NLP and ML
+sentence-transformers>=2.2.0
+transformers>=4.39.3
+
+# PII Extraction
+spacy>=3.4.0
+
+# Optional: MLX for Apple Silicon (baseline minimizer)
+# Uncomment if using Apple Silicon:
+# mlx>=0.30.0
+# mlx-lm>=0.28.0
+
+# Optional: GPU baseline minimizer (requires CUDA)
+# Uncomment if using GPU:
+# bitsandbytes>=0.41.0

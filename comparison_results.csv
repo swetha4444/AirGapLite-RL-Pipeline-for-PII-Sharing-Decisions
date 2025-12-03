@@ -1,0 +1,3 @@
+test_id,prompt,domain,allowed_pii,present_pii,baseline_minimized,baseline_utility,baseline_privacy,baseline_time,baseline_tokens,rl_minimized,rl_utility,rl_privacy,rl_time,utility_diff,privacy_diff,time_speedup,baseline_error,rl_error
+1,I need to book a table for tonight,restaurant,"PHONE, EMAIL","PHONE, NAME, SSN, EMAIL","PHONE, EMAIL",1.0,1.0,10.514497995376587,150,"EMAIL, PHONE",1.0,1.0,0.7341859340667725,0.0,0.0,14.321301331850792,,
+2,Reserve a table for 2 people,restaurant,"PHONE, EMAIL","EMAIL, PHONE, NAME, CREDIT_CARD, company, SSN","EMAIL, PHONE",1.0,1.0,8.899188041687012,150,"EMAIL, PHONE",1.0,1.0,0.6736099720001221,0.0,0.0,13.211188093405184,,

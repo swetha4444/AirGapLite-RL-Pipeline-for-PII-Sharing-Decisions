@@ -1,0 +1,4 @@
+Algorithm,Final Reward,Training Time (s),Restaurant Utility (strictly),Restaurant Privacy (strictly),Restaurant Utility (balanced),Restaurant Privacy (balanced),Restaurant Utility (accurately),Restaurant Privacy (accurately),Bank Utility (strictly),Bank Privacy (strictly),Bank Utility (balanced),Bank Privacy (balanced),Bank Utility (accurately),Bank Privacy (accurately)
+GRPO,0.9601450000000011,3.1229848861694336,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+GROUPEDPPO,0.9549483333333322,3.0546791553497314,1.0,0.8888888888888888,1.0,0.8888888888888888,1.0,0.8888888888888888,1.0,1.0,1.0,1.0,1.0,1.0
+VANILLARL,0.9605766666666682,2.535088062286377,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

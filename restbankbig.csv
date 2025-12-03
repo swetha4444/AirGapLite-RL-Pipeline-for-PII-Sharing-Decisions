@@ -1,0 +1,469 @@
+prompt,domain
+I need to check my account balance immediately.,bank
+Can you tell me how much money is in my checking account?,bank
+What is the current balance of my savings?,bank
+I want to transfer $500 to my mom.,bank
+Send $200 to John via Zelle.,bank
+Pay my electricity bill of $150.,bank
+How do I report a lost credit card?,bank
+"I think my debit card was stolen, please freeze it.",bank
+Freeze my card right now.,bank
+"Unfreeze my card, I found it.",bank
+What is the interest rate on a personal loan?,bank
+I want to apply for a mortgage.,bank
+Can I get a car loan with bad credit?,bank
+What documents do I need to open a business account?,bank
+I forgot my online banking password.,bank
+Reset my PIN number please.,bank
+How do I change my billing address?,bank
+Update my phone number for alerts.,bank
+I see a transaction I didn't make.,bank
+Dispute the charge of $50 from Amazon.,bank
+Why was my card declined at Target?,bank
+Is there a fee for international wire transfers?,bank
+What is the routing number for this bank?,bank
+I need a letter of good standing for my account.,bank
+Can I increase my daily withdrawal limit?,bank
+Where is the nearest ATM to my location?,bank
+What time does the downtown branch close?,bank
+I want to order a new checkbook.,bank
+How do I set up direct deposit for my paycheck?,bank
+Is my money FDIC insured?,bank
+Download my statement for last month.,bank
+I need a copy of a cancelled check.,bank
+Can I deposit a check by taking a picture?,bank
+What is the exchange rate for Euros today?,bank
+"I'm traveling to Japan, do I need to notify the bank?",bank
+Set a travel notice for my card.,bank
+How do I redeem my credit card rewards points?,bank
+What is the APR on my credit card?,bank
+Can I consolidate my credit card debt?,bank
+I want to close my savings account.,bank
+Why did I get an overdraft fee?,bank
+Waive the monthly maintenance fee please.,bank
+How much interest did I earn this year?,bank
+Can I add my spouse to my account?,bank
+Remove an authorized user from my card.,bank
+I need to speak to a human agent.,bank
+Connect me to the loan department.,bank
+What is the status of my application?,bank
+How long does a wire transfer take?,bank
+Can I skip a loan payment this month?,bank
+I want to set up automatic bill pay.,bank
+Cancel my automatic payment to Netflix.,bank
+What is the minimum balance to avoid fees?,bank
+I need a cashier's check for $1000.,bank
+Can I withdraw cash without my card?,bank
+Transfer funds from savings to checking.,bank
+How do I link an external bank account?,bank
+Is there a limit on Zelle transfers?,bank
+Why is my account locked?,bank
+Unlock my account please.,bank
+I received a suspicious text message from the bank.,bank
+Is this email really from you guys?,bank
+How do I activate my new card?,bank
+When will my new card arrive?,bank
+Can I get a replacement card expedited?,bank
+What is the payoff amount for my car loan?,bank
+Do you offer student loans?,bank
+I want to open a joint account.,bank
+Can I open a customized savings bucket?,bank
+What are the benefits of the platinum card?,bank
+Does this card have foreign transaction fees?,bank
+I need to update my email address.,bank
+How do I enable 2-factor authentication?,bank
+"My app is not working, can you help?",bank
+Where can I find my account number?,bank
+Can I deposit cash at the ATM?,bank
+What is the daily spending limit on my debit card?,bank
+I want to upgrade to a premium checking account.,bank
+Are there any promotions for new customers?,bank
+How do I close my credit card account?,bank
+Can I get a refund on a bank fee?,bank
+I need tax forms for my interest earned.,bank
+What is the swift code for international transfers?,bank
+Can I pay my mortgage online?,bank
+How do I access my account from abroad?,bank
+I forgot my username.,bank
+Can you send me a new PIN?,bank
+Is there a hold on my deposit?,bank
+When will my funds be available?,bank
+I want to dispute a late fee.,bank
+Can I set up spending alerts?,bank
+How do I turn off paper statements?,bank
+I need a voided check for my employer.,bank
+Can I order foreign currency here?,bank
+What is the current CD rate?,bank
+I want to open a Certificate of Deposit.,bank
+Can I withdraw from my IRA?,bank
+How do I rollover my 401k?,bank
+I need financial advice.,bank
+Do you have a notary at the branch?,bank
+Can I get a safe deposit box?,bank
+What is the cost of a wire transfer?,bank
+I need to stop a payment on a check.,bank
+How do I verify a transaction?,bank
+Is mobile banking secure?,bank
+Can I use my card in Europe?,bank
+I want to increase my credit line.,bank
+Request a credit limit increase.,bank
+Check my credit score.,bank
+How does a secured credit card work?,bank
+I want to report fraud on my account.,bank
+Who do I call for identity theft?,bank
+Can I link my card to Apple Pay?,bank
+How do I use Google Pay with this card?,bank
+"I lost my wallet, block everything.",bank
+Can I get cash back at the store?,bank
+What is the maximum transfer amount?,bank
+How do I delete a payee?,bank
+Can I verify a check online?,bank
+Does the bank offer life insurance?,bank
+I need to renew my CD.,bank
+What happens if I miss a payment?,bank
+Can I change my payment due date?,bank
+How do I set up overdraft protection?,bank
+Do you offer business loans?,bank
+I need a business credit card.,bank
+Can I open a trust account?,bank
+How do I deposit a large check?,bank
+Is there a limit on mobile deposits?,bank
+Why is my balance negative?,bank
+I want to file a complaint.,bank
+Can I speak to a manager?,bank
+How do I contact customer support?,bank
+What are your support hours?,bank
+Is there a 24/7 helpline?,bank
+Can I chat with an agent online?,bank
+I need accessibility assistance.,bank
+Do you have services for the hearing impaired?,bank
+Can I get statements in Braille?,bank
+Where is the headquarters located?,bank
+How long has this bank been in business?,bank
+Is my data private?,bank
+Do you share my info with third parties?,bank
+How do I opt out of marketing emails?,bank
+Can I get a new card design?,bank
+Do you offer rewards on debit cards?,bank
+What is the best savings account you have?,bank
+Compare your credit cards for me.,bank
+I need a loan for home improvement.,bank
+Can I get a bridge loan?,bank
+Do you offer investment accounts?,bank
+How do I buy stocks through the bank?,bank
+Can I buy crypto with my account?,bank
+Does the bank support Bitcoin?,bank
+I need a wealth advisor.,bank
+How do I plan for retirement?,bank
+Can I set up an education savings plan?,bank
+What is a money market account?,bank
+Do you have high-yield savings?,bank
+Can I open an account for my child?,bank
+I need a teen checking account.,bank
+How do I transfer money to another bank?,bank
+Can I wire money to China?,bank
+What info do I need for a wire to UK?,bank
+How do I cancel a pending transfer?,bank
+Can I edit a scheduled payment?,bank
+Where can I view my payment history?,bank
+How far back do statements go?,bank
+Can I export my transactions to Excel?,bank
+Does this work with QuickBooks?,bank
+I need an API key for my account.,bank
+How do I authenticate with Plaid?,bank
+"My card is damaged, I need a new one.",bank
+The chip on my card isn't working.,bank
+Can I use the magnetic stripe?,bank
+Do you have contactless cards?,bank
+How do I use tap to pay?,bank
+Is there a fee for using another bank's ATM?,bank
+Do you reimburse ATM fees?,bank
+Can I get fee-free withdrawals?,bank
+What network of ATMs do you use?,bank
+I forgot my security questions.,bank
+How do I unlock my user ID?,bank
+Can I use Face ID to login?,bank
+Is the mobile app compatible with Android?,bank
+How do I update the app?,bank
+My app keeps crashing.,bank
+I can't login to the website.,bank
+"The website is down, what do I do?",bank
+Is there a maintenance window today?,bank
+How do I clear my browser cache for banking?,bank
+Can I trust this browser extension?,bank
+Is it safe to bank on public WiFi?,bank
+How do I secure my account?,bank
+What is phishing?,bank
+How do I spot a scam?,bank
+"I think I was scammed, help.",bank
+"Someone asked for my OTP, should I give it?",bank
+"Never share your password, right?",bank
+Book a table for two at an Italian restaurant.,restaurant
+Reserve a spot for dinner tonight.,restaurant
+I need a reservation for 4 people at 7 PM.,restaurant
+Find a vegan restaurant near me.,restaurant
+Is there a table available at The Olive Garden?,restaurant
+Can I book a booth specifically?,restaurant
+I want a table with a view.,restaurant
+Do you have outdoor seating?,restaurant
+Is the patio open today?,restaurant
+Reserve a romantic table for an anniversary.,restaurant
+I need a place for a business lunch.,restaurant
+Find a kid-friendly restaurant nearby.,restaurant
+Do you have high chairs?,restaurant
+Is there a kids menu?,restaurant
+"I have a gluten allergy, is it safe?",restaurant
+Do you serve halal meat?,restaurant
+Is the menu kosher?,restaurant
+"I am allergic to nuts, please check.",restaurant
+Does the chef accommodate dietary restrictions?,restaurant
+What are the specials today?,restaurant
+Send me the dinner menu.,restaurant
+Do you have a wine list?,restaurant
+Is there a corkage fee if I bring wine?,restaurant
+Can I order takeout?,restaurant
+I want to place a delivery order.,restaurant
+Do you deliver to my address?,restaurant
+How long is the wait for a table?,restaurant
+Put me on the waitlist please.,restaurant
+I'm running 10 minutes late.,restaurant
+Cancel my reservation for tonight.,restaurant
+Change my booking from 2 to 4 people.,restaurant
+Can we move our reservation to 8 PM?,restaurant
+Is there a dress code?,restaurant
+Do I need to wear a jacket?,restaurant
+Is the restaurant wheelchair accessible?,restaurant
+Do you have valet parking?,restaurant
+Where is the nearest parking lot?,restaurant
+Can I book a private room?,restaurant
+I want to host a birthday party there.,restaurant
+Do you do catering for events?,restaurant
+What time does the kitchen close?,restaurant
+Are you open on Christmas Day?,restaurant
+Do you serve all-day breakfast?,restaurant
+I want to order a steak medium rare.,restaurant
+Can I get the dressing on the side?,restaurant
+Make the curry extra spicy.,restaurant
+No onions in my salad please.,restaurant
+I want to order dessert.,restaurant
+Do you have tiramisu?,restaurant
+What is the soup of the day?,restaurant
+Can I pay with Apple Pay?,restaurant
+Do you split checks for large groups?,restaurant
+Is gratuity included in the bill?,restaurant
+I want to leave a tip.,restaurant
+The service was excellent.,restaurant
+"The food was cold, I want a refund.",restaurant
+I found a hair in my food.,restaurant
+This isn't what I ordered.,restaurant
+Can I speak to the manager?,restaurant
+How do I leave a review?,restaurant
+Do you have a loyalty program?,restaurant
+Can I buy a gift card?,restaurant
+Do you have live music tonight?,restaurant
+Is it a quiet place?,restaurant
+I need a table away from the kitchen.,restaurant
+Can we sit at the bar?,restaurant
+Do you have a happy hour menu?,restaurant
+When does happy hour end?,restaurant
+I want to order appetizers.,restaurant
+Recommend a good wine for this steak.,restaurant
+What is the chef's recommendation?,restaurant
+Is the fish fresh?,restaurant
+Do you have oysters today?,restaurant
+I want to order the tasting menu.,restaurant
+How many courses is the tasting menu?,restaurant
+Can we share a plate?,restaurant
+Is there a buffet?,restaurant
+Do you serve brunch on Sundays?,restaurant
+I want to make a reservation for brunch.,restaurant
+Do you offer bottomless mimosas?,restaurant
+Can I bring my dog to the patio?,restaurant
+Is the restaurant pet-friendly?,restaurant
+Do you have wifi?,restaurant
+Can I work from the cafe?,restaurant
+I need a table with a power outlet.,restaurant
+Is it crowded right now?,restaurant
+How loud is the music?,restaurant
+Can you turn down the music?,restaurant
+It's too cold in here.,restaurant
+Can we move to a warmer table?,restaurant
+"I dropped my fork, can I get a new one?",restaurant
+We need more napkins please.,restaurant
+Can we get some water?,restaurant
+Refill my drink please.,restaurant
+I'm ready to order now.,restaurant
+We need a few more minutes to decide.,restaurant
+Can you explain this dish?,restaurant
+What ingredients are in the sauce?,restaurant
+Is the chicken organic?,restaurant
+Where do you source your meat?,restaurant
+Do you have farm-to-table options?,restaurant
+I want to support local businesses.,restaurant
+Is this a chain restaurant?,restaurant
+Who is the head chef?,restaurant
+Do you have Michelin stars?,restaurant
+Is this a fine dining place?,restaurant
+I want a casual dining spot.,restaurant
+Find a fast food joint nearby.,restaurant
+I want pizza.,restaurant
+Where is the best burger in town?,restaurant
+I'm craving sushi.,restaurant
+Find a Mexican restaurant.,restaurant
+Is there a Thai place open late?,restaurant
+I want Indian food.,restaurant
+Find a Chinese restaurant that delivers.,restaurant
+Do you have dim sum?,restaurant
+I want to eat tacos.,restaurant
+Where can I get a good coffee?,restaurant
+Do you serve alcohol?,restaurant
+Do you have a full bar?,restaurant
+I want a cocktail.,restaurant
+Do you have craft beer?,restaurant
+Is there a sommelier?,restaurant
+Can I reserve the chef's table?,restaurant
+How much is the average meal?,restaurant
+Is it expensive?,restaurant
+I'm looking for a cheap eat.,restaurant
+Do you have a student discount?,restaurant
+Is there a senior citizen discount?,restaurant
+Can I use a coupon?,restaurant
+Do you accept reservations online?,restaurant
+Can I book through OpenTable?,restaurant
+I called but no one answered.,restaurant
+Can I leave a message for the restaurant?,restaurant
+Confirm my reservation via email.,restaurant
+Send me a receipt.,restaurant
+"I left my jacket there, did you find it?",restaurant
+Do you have a lost and found?,restaurant
+Can I buy a bottle of your sauce?,restaurant
+Do you sell merchandise?,restaurant
+Can I book the whole restaurant?,restaurant
+How many people can you accommodate?,restaurant
+Do you have a projector for meetings?,restaurant
+Can we decorate the table?,restaurant
+Can I bring a birthday cake?,restaurant
+Is there a cake cutting fee?,restaurant
+Do you sing Happy Birthday?,restaurant
+I want a candle on the dessert.,restaurant
+Make it a surprise.,restaurant
+Don't show the prices to my guest.,restaurant
+I am paying for the whole table.,restaurant
+Bring the bill to me quietly.,restaurant
+Can I pay in advance?,restaurant
+Do you take American Express?,restaurant
+Do you accept cash?,restaurant
+Is there an ATM inside?,restaurant
+Where are the restrooms?,restaurant
+Is the restroom accessible?,restaurant
+Do you have a baby changing station?,restaurant
+Is there a smoking area?,restaurant
+Can I smoke on the patio?,restaurant
+Do you have hookah?,restaurant
+Is there a dress code for lunch?,restaurant
+Can I wear shorts?,restaurant
+Do I need a reservation for the bar?,restaurant
+Can we just have drinks?,restaurant
+Do you serve food at the bar?,restaurant
+What time is last call?,restaurant
+When do you stop serving food?,restaurant
+Are you open 24 hours?,restaurant
+Do you have a drive-thru?,restaurant
+Can I do curbside pickup?,restaurant
+Where do I park for pickup?,restaurant
+Call me when the order is ready.,restaurant
+Text me when my table is ready.,restaurant
+How much longer for the food?,restaurant
+"It's been 45 minutes, where is my food?",restaurant
+"This is cold, can you heat it up?",restaurant
+This is too salty.,restaurant
+This is undercooked.,restaurant
+This is overcooked.,restaurant
+I didn't order this.,restaurant
+You forgot my drink.,restaurant
+You overcharged me.,restaurant
+The bill is wrong.,restaurant
+Remove this item from the bill.,restaurant
+I want to speak to the owner.,restaurant
+I will leave a bad review.,restaurant
+I love this place.,restaurant
+Compliments to the chef.,restaurant
+The server was amazing.,restaurant
+I will definitely come back.,restaurant
+Can I buy a gift card online?,restaurant
+Do you have holiday hours?,restaurant
+Are you open on New Year's Eve?,restaurant
+Do you have a special Valentine's menu?,restaurant
+Is there a cover charge?,restaurant
+Do you require a deposit for booking?,restaurant
+What is the cancellation policy?,restaurant
+"If I cancel, do I get my money back?",restaurant
+Can I change the date of my booking?,restaurant
+Do you have high tea?,restaurant
+I want to book an afternoon tea.,restaurant
+Do you serve pastries?,restaurant
+Is there a bakery attached?,restaurant
+Do you make your own bread?,restaurant
+Is the pasta homemade?,restaurant
+Do you use fresh ingredients?,restaurant
+Is the seafood sustainable?,restaurant
+Do you have wild-caught fish?,restaurant
+Is the beef grass-fed?,restaurant
+Do you have free-range chicken?,restaurant
+Is the coffee fair trade?,restaurant
+Do you have soy milk?,restaurant
+Do you have oat milk?,restaurant
+Do you have almond milk?,restaurant
+Can I get decaf coffee?,restaurant
+Do you have herbal tea?,restaurant
+I want an iced coffee.,restaurant
+Make it to go.,restaurant
+Can I get a doggy bag?,restaurant
+Wrap this up for me.,restaurant
+Can I have extra sauce to go?,restaurant
+Do you provide plastic cutlery?,restaurant
+I want eco-friendly packaging.,restaurant
+Do you recycle?,restaurant
+Do you compost?,restaurant
+Is this straw plastic?,restaurant
+I don't need a straw.,restaurant
+Can I get a glass of water with no ice?,restaurant
+Can I have warm water?,restaurant
+Do you have sparkling water?,restaurant
+I want a bottle of still water.,restaurant
+Do you have fresh juice?,restaurant
+Is the juice squeezed fresh?,restaurant
+Do you have smoothies?,restaurant
+Can I add protein powder?,restaurant
+Do you have acai bowls?,restaurant
+I want a light salad.,restaurant
+I want something heavy.,restaurant
+I'm very hungry.,restaurant
+I'm not that hungry.,restaurant
+Can I order a half portion?,restaurant
+Do you have small plates?,restaurant
+I want to share appetizers.,restaurant
+Bring everything at once.,restaurant
+Bring appetizers first.,restaurant
+Wait for the rest of my party.,restaurant
+We are ready to be seated.,restaurant
+Our table is wobbling.,restaurant
+The table is dirty.,restaurant
+Can you wipe the table?,restaurant
+The floor is slippery.,restaurant
+It's too dark in here.,restaurant
+Can you turn up the lights?,restaurant
+The music is too loud.,restaurant
+Can I request a song?,restaurant
+Do you have a DJ?,restaurant
+Is there dancing?,restaurant
+Do you have karaoke?,restaurant
+Can I watch the game here?,restaurant
+Turn the TV to the football game.,restaurant
+Do you have trivia night?,restaurant
+When is live jazz night?,restaurant
+Do you host wine tastings?,restaurant
+I want to book a cooking class.,restaurant
+Do you offer cooking lessons?,restaurant
+Can I meet the chef?,restaurant
+Can I see the kitchen?,restaurant

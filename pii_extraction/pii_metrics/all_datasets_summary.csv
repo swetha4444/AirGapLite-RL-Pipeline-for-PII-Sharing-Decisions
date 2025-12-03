@@ -1,0 +1,4 @@
+dataset,rows,total_tp,total_fp,total_fn,micro_precision,micro_recall,micro_f1,macro_precision,macro_recall,macro_f1,exact_match_accuracy,exact_match_count
+dataset_final_metrics,15805,71541,0,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,15805
+dataset_balanced_metrics,1500,8435,63,0,0.9925864909390445,1.0,0.9962794543199669,0.9935065416065416,1.0,0.9964577893382847,0.958,1437
+dataset_1500_bank_balanced_metrics,1500,9137,64,0,0.9930442343223562,1.0,0.9965099792780019,0.9939118326118326,1.0,0.9967043337123832,0.9573333333333334,1436

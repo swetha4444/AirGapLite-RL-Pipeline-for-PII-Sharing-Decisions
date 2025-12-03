@@ -1,0 +1,4 @@
+model,avg_privacy,avg_utility,avg_speed
+mlx-community/Qwen2.5-7B-Instruct-4bit,1.0,0.9,45.17312772902383
+mlx-community/Mistral-7B-Instruct-v0.3-4bit,1.0,1.0,34.07588383560129
+mlx-community/Meta-Llama-3.1-8B-Instruct-4bit,0.9166666666666666,0.8,43.412274772785814

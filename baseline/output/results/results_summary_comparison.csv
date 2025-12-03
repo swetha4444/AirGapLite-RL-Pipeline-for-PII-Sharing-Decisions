@@ -1,0 +1,6 @@
+model,avg_privacy,avg_utility,avg_speed
+Qwen/Qwen2.5-7B-Instruct,1.0,1.0,18.850689665517542
+mistralai/Mistral-7B-Instruct-v0.3,0.975,1.0,17.710909608787752
+meta-llama/Llama-3.1-8B-Instruct,0.95,1.0,5.842765759263149
+Qwen/Qwen2.5-3B-Instruct,1.0,0.9,15.553577791852268
+microsoft/Phi-3-mini-4k-instruct,1.0,1.0,23.93116901845367

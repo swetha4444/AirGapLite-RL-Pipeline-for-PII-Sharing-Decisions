@@ -1,0 +1,58 @@
+======================================================================
+AIRGAP MINIMIZER - ANALYSIS REPORT
+======================================================================
+
+Total Samples Analyzed: 2118
+Models Tested: 5
+Date: 2025-11-27 18:13:37
+
+======================================================================
+MODEL PERFORMANCE SUMMARY
+======================================================================
+
+Meta-Llama-3.1-8B-Instruct:
+  Samples: 532
+  Privacy: 98.79% ± 6.07%
+  Utility: 38.72% ± 48.47%
+  Total Time: 31.8 minutes
+  Avg Time/Sample: 3.58s
+
+Mistral-7B-Instruct-v0.3:
+  Samples: 271
+  Privacy: 99.88% ± 2.02%
+  Utility: 99.63% ± 6.07%
+  Total Time: 7.4 minutes
+  Avg Time/Sample: 1.64s
+
+Qwen2.5-14B-Instruct:
+  Samples: 522
+  Privacy: 98.01% ± 9.05%
+  Utility: 50.00% ± 50.05%
+  Total Time: 57.8 minutes
+  Avg Time/Sample: 6.64s
+
+Qwen2.5-32B-Instruct:
+  Samples: 261
+  Privacy: 100.00% ± 0.00%
+  Utility: 100.00% ± 0.00%
+  Total Time: 63.8 minutes
+  Avg Time/Sample: 14.66s
+
+Qwen2.5-7B-Instruct:
+  Samples: 532
+  Privacy: 99.78% ± 2.55%
+  Utility: 50.19% ± 50.05%
+  Total Time: 29.6 minutes
+  Avg Time/Sample: 3.34s
+
+======================================================================
+COMPARISON TO AIRGAPAGENT PAPER
+======================================================================
+
+Paper Benchmarks:
+  Privacy: 97%
+  Utility: 87%
+
+Your Best Results:
+  Best Privacy: Qwen2.5-32B-Instruct (100.00%)
+  Best Utility: Qwen2.5-32B-Instruct (100.00%)

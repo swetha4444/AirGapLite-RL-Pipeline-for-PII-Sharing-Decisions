@@ -1,0 +1,16 @@
+{
+  "algorithm": "grpo",
+  "average_reward": 0.9590833333333316,
+  "restaurant_metrics": {
+    "utility": 1.0,
+    "privacy": 1.0,
+    "avg_shared": 2,
+    "privacy_breach_rate": 0.0
+  },
+  "bank_metrics": {
+    "utility": 1.0,
+    "privacy": 1.0,
+    "avg_shared": 5,
+    "privacy_breach_rate": 0.0
+  }
+}
